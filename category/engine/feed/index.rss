@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Engine &#8211; Team Kratos Racing</title>
+	<atom:link href="http://kratosracing.com/category/engine/feed/" rel="self" type="application/rss+xml" />
+	<link>http://kratosracing.com</link>
+	<description>Together We Rise!</description>
+	<lastBuildDate>
+	Sat, 16 Mar 2019 15:12:16 +0000	</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>http://kratosracing.com/wp-content/uploads/2017/12/cropped-team-kratos-racing-Entire-Logo-black-transparent-2-32x32.png</url>
+	<title>Engine &#8211; Team Kratos Racing</title>
+	<link>http://kratosracing.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Engine Issue at Formula Bharat &#8211; Decompression Lever Damage</title>
+		<link>http://kratosracing.com/engine-issue-at-formula-bharat-decompression-lever-damage/</link>
+				<comments>http://kratosracing.com/engine-issue-at-formula-bharat-decompression-lever-damage/#comments</comments>
+				<pubDate>Thu, 28 Jun 2018 08:12:49 +0000</pubDate>
+		<dc:creator><![CDATA[kratosracing]]></dc:creator>
+				<category><![CDATA[Engine]]></category>
+
+		<guid isPermaLink="false">http://kratosracing.com/?p=1689</guid>
+				<description><![CDATA[<p>&#160; &#160; The team uses a KTM 390 as the heart of fireblade from the past 3 years. The fireblade 3.1 at Formula Bharat 2018 was on the engine of make 2016 which was tested for around 550kms. The team faced an engine issue at Formula Bharat 2018 during the Driver change in the endurance event. After the 1st half of the endurance the engine didn’t crank up, hence we had a DNF. But the &#8230; </p>
+<p class="link-more"><a href="http://kratosracing.com/engine-issue-at-formula-bharat-decompression-lever-damage/" class="more-link">Continue reading<span class="screen-reader-text"> "Engine Issue at Formula Bharat &#8211; Decompression Lever Damage"</span></a></p>
+<p>The post <a rel="nofollow" href="http://kratosracing.com/engine-issue-at-formula-bharat-decompression-lever-damage/">Engine Issue at Formula Bharat &#8211; Decompression Lever Damage</a> appeared first on <a rel="nofollow" href="http://kratosracing.com">Team Kratos Racing</a>.</p>
+]]></description>
+						<wfw:commentRss>http://kratosracing.com/engine-issue-at-formula-bharat-decompression-lever-damage/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+							</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 20/68 objects using disk
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+Database Caching 5/15 queries in 0.005 seconds using disk
+
+Served from: kratosracing.com @ 2019-04-26 12:03:43 by W3 Total Cache
+-->
